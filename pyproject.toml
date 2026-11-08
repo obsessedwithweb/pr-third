@@ -1,0 +1,12 @@
+[project]
+name = "sokoban-solver-p3"
+version = "0.1.0"
+description = "Sokoban Puzzle Solver with Deadlock Detection (Part 3) - USTHB M1 Visual Computing"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pygame==2.6.1",
+]
+
+[tool.uv]
+package = false
